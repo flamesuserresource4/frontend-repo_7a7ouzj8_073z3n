@@ -1,0 +1,15 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 307 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.11.16:3000/
+The request url "/home/workspace/.env" is outside of Vite serving allow list.
+
+- /home/workspace
+
+Refer to docs https://vite.dev/config/server-options.html#server-fs-allow for configurations and more details.
+
